@@ -1,2 +1,2 @@
 # LushHomesWebsite
-![Optional Text](../master/images/screenshot1.jpg)
+![Optional Text](../master/images/chair1.jpg)
